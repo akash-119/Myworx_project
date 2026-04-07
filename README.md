@@ -39,11 +39,13 @@ MyWorx serves startups, freelancers, and enterprises by providing flexible works
 
 ## 🌍 Live Landing Page
 
-🔗 [https://www.myworx.in](https://coworking-space.myworx.in/)/](https://coworking-space.myworx.in//)
+🔗 [(https://coworking-space.myworx.in/)/](https://coworking-space.myworx.in//)
 
 ---
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-21-04" src="https://github.com/user-attachments/assets/19ef69a4-4935-4f72-b8d4-ccfe51225108" />
 
-<img width="1627" height="10587" alt="screencapture-coworking-space-myworx-in-2026-04-07-21_17_28" src="https://github.com/user-attachments/assets/8252a653-9f6d-41d1-90f9-000df6166c33" />
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-21-22" src="https://github.com/user-attachments/assets/1293076d-d8e9-48df-9ad3-54c7ec86520c" />
+
 
 
 ## 🎯 Core Features
