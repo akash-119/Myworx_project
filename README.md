@@ -132,10 +132,12 @@ The coworking space provides:
 
 ## 📸 Screenshots
 
-<img width="1627" height="17000" alt="screencapture-myworx-in-2026-04-07-20_59_29" src="https://github.com/user-attachments/assets/27ee7d4e-e5bc-4a80-811e-9cdd801b7884" />
-
-
 * Homepage
+
+* 
+<img width="1627" height="129000" alt="screencapture-myworx-in-2026-04-07-20_59_29" src="https://github.com/user-attachments/assets/9ee764c1-f548-41a0-92b1-9b53fe04b1d3" />
+
+
 
 
 
