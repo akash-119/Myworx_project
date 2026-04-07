@@ -9,7 +9,42 @@ The project focuses on performance, SEO optimization, and conversion-driven UI t
 MyWorx serves startups, freelancers, and enterprises by providing flexible workspace solutions with essential amenities and a professional environment. 
 
 
+## 🌍 Live Website
+
+🔗 [https://www.myworx.in/](https://www.myworx.in/)
+
 ---
+
+* Homepage
+
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-08-44" src="https://github.com/user-attachments/assets/ebacef5a-1711-4f37-9aa7-9e620cebdd49" />
+
+* Pricing section
+  
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-10-33" src="https://github.com/user-attachments/assets/d5c488a2-5265-462d-8883-10b07d771f21" />
+
+* Contact form
+  
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-11-03" src="https://github.com/user-attachments/assets/04a4a50c-3d79-4c0a-a75c-99a3141ca65c" />
+
+
+* Business Registration
+  
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-11-29" src="https://github.com/user-attachments/assets/77fbac64-0961-479f-b29e-dce6b6dde98e" />
+
+<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-14-00" src="https://github.com/user-attachments/assets/71e60889-8d93-48f2-9b75-226c554994ad" />
+
+
+---
+
+## 🌍 Live Landing Page
+
+🔗 [https://www.myworx.in](https://coworking-space.myworx.in/)/](https://coworking-space.myworx.in//)
+
+---
+
+<img width="1627" height="10587" alt="screencapture-coworking-space-myworx-in-2026-04-07-21_17_28" src="https://github.com/user-attachments/assets/8252a653-9f6d-41d1-90f9-000df6166c33" />
+
 
 ## 🎯 Core Features
 
@@ -124,22 +159,6 @@ The coworking space provides:
 
 ---
 
-## 🌍 Live Website
-
-🔗 [https://www.myworx.in/](https://www.myworx.in/)
-
----
-
-
-
-
-* Homepage
-## 📸 Screenshots<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-08-44" src="https://github.com/user-attachments/assets/ebacef5a-1711-4f37-9aa7-9e620cebdd49" />
-
-* Pricing section
-* Contact form
-* Mobile view
-* Any conversion page
 
 ---
 
