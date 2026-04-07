@@ -130,16 +130,11 @@ The coworking space provides:
 
 ---
 
-## 📸 Screenshots
+
+
 
 * Homepage
-
-* 
-<img width="1627" height="129000" alt="screencapture-myworx-in-2026-04-07-20_59_29" src="https://github.com/user-attachments/assets/9ee764c1-f548-41a0-92b1-9b53fe04b1d3" />
-
-
-
-
+## 📸 Screenshots<img width="1619" height="895" alt="Screenshot from 2026-04-07 21-08-44" src="https://github.com/user-attachments/assets/ebacef5a-1711-4f37-9aa7-9e620cebdd49" />
 
 * Pricing section
 * Contact form
